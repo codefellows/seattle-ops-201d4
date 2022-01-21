@@ -17,7 +17,7 @@ If you are testing in, and don't yet have an Ops Lab Kit, ensure you get one del
 
 ## Complete Prework Assignments
 
-- [Schedule CompTIA A+ Core 1](https://codefellows.github.io/ops-201-guide/curriculum/prework/schedule-aplus){:target="_blank"}
+- [Schedule CompTIA ITF+](https://github.com/codefellows/seattle-ops-201d4/blob/main/prework/schedule-certification.md){:target="_blank"}
 - [Setup Your Google](https://codefellows.github.io/ops-301-guide/curriculum/prework/setup-your-google){:target="_blank"}
 - [Setup Your Accounts](https://codefellows.github.io/ops-201-guide/curriculum/prework/setup-your-accounts){:target="_blank"}, if you haven't already. 
 - [Setup Your Lab Environment](https://codefellows.github.io/ops-201-guide/curriculum/prework/setup-your-lab-environment){:target="_blank"}
